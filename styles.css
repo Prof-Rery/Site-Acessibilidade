@@ -9,7 +9,8 @@
 }
 
 body {
-    font-size: 1rem;
+    body {background-color: #ff3131;}
+    font-size: 3rem;
     font-family: 'Montserrat';
 }
 
