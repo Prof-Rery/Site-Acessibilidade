@@ -9,8 +9,8 @@
 }
 
 body {
-    body {background-color: #ff3131;}
-    font-size: 3rem;
+    background-color: #ff3131;
+    font-size: 2rem;
     font-family: 'Montserrat';
 }
 
@@ -158,7 +158,7 @@ h2 {
 }
 
 .opcoes-acessibilidade button{
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 }
 .apresenta-lista{
     display: none;
